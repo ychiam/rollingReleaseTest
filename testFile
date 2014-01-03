@@ -2,10 +2,7 @@ The fresh testing file
 The second commit
 The 3rd commit
 <<<<<<< HEAD
-<<<<<<< HEAD
 4th
 5th
-=======
->>>>>>> parent of accac96... blah
 =======
 >>>>>>> parent of accac96... blah
